@@ -31,7 +31,5 @@ The dashboard was built in **Microsoft Excel** with PivotTables, KPIs, slicers, 
 - Data visualization & storytelling
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot.jpeg)
 
-## 📑 Project Report
-For a detailed explanation of methodology and insights, see `report.pdf` (if included).
